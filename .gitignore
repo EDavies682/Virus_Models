@@ -1,0 +1,18 @@
+# Spyder metadata
+.spyderproject/
+.spyproject/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# macOS specific (Essential for Mac users)
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Environments
+env/
+venv/
+.env
